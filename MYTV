@@ -55,16 +55,8 @@ rtp://@232.84.1.224:9318
 rtp://@232.84.3.88:11524
 #EXTINF:0 tvg-id="spotv1" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV (HD 10Mbps)
 rtp://@232.84.2.141:10666
-#EXTINF:0 tvg-id="spotv1" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV (HD 10Mbps)
-rtp://@232.84.3.111:10666
-#EXTINF:0 tvg-id="spotv1" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hXYkO7B.png",SPOTV (HD 10Mbps)
-rtp://@232.84.3.49:11758
 #EXTINF:0 tvg-id="spotv2" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 (HD 9Mbps)
 rtp://@232.84.2.142:10672
-#EXTINF:0 tvg-id="spotv2" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 (HD 9Mbps)
-rtp://@232.84.3.129:10672
-#EXTINF:0 tvg-id="spotv2" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/EBKmDBi.png",SPOTV2 (HD 9Mbps)
-rtp://@232.84.3.48:11764
 #------------------------MyTV------------------------#
 #EXTINF:0 tvg-id="" group-title="MyTV Service" tvg-logo="https://i.imgur.com/NWtbAS5.png",Event 801
 rtp://@232.84.2.175:10858
